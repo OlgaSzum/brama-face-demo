@@ -10,7 +10,7 @@ Full archival data is not included due to copyright and privacy restrictions.
 
 ## Run in Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/USER/brama-face-demo/blob/main/notebooks/face_matching_demo.ipynb)
+https://colab.research.google.com/github/OlgaSzum/brama-face-demo/blob/main/notebooks/face_matching_demo.ipynb)
 
 ---
 
