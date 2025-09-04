@@ -17,8 +17,8 @@ https://colab.research.google.com/github/USER/brama-face-demo/blob/main/notebook
 ## Repository structure
 - `notebooks/` – Colab notebooks (demo + full mode)
 - `src/` – helper functions (I/O, detection, visualization)
-- `data/reference/` – 2–3 demo reference photos (CC / Public Domain)
-- `data/gallery/` – 5–10 demo gallery photos
+- `data/reference/` – demo reference photos (CC / Public Domain)
+- `data/gallery/` – demo gallery photos
 - `reports/` – outputs generated during runs (CSV, HTML)
 - `docs/` – GitHub Pages site (public demo)
   - `index.md` – landing page
