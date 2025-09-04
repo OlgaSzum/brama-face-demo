@@ -5,7 +5,7 @@ developed on a volunteer basis at **Brama Grodzka – Teatr NN (Lublin, Poland)*
 
 ## Run in Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/USER/brama-face-demo/blob/main/notebooks/face_matching_demo.ipynb)
+https://colab.research.google.com/github/OlgaSzum/brama-face-demo/blob/main/notebooks/face_matching_demo.ipynb)
 
 Click the badge above to open the notebook in Google Colab.  
 - **Demo mode**: works out-of-the-box on sample data from this repo.  
